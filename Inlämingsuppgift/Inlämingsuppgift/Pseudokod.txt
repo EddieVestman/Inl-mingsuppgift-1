@@ -1,0 +1,8 @@
+Programet börjar med att skapa ett slumpmässigt tal mellan 1-100 som användaren sedan ska försöka gissa.
+Efter det så kommer programet att fråga dig om ett nummer för att försöka gissa, det slumässiga talet.
+Sedan undertiden som användaren svarar fel kommer koden att repeteras fram till att det rätta svaret kommit fram.
+Om talet är under det fram slumpande talet kommer koden att mata ur "du gissade för lågt"
+Eller om talet är större kommer den att mata ut "du gisasde för högt"
+Om talet användaren gissar är samma som talet som i början genererades kommer programet att mata ut "Du gissade rätt!"
+Och sedan skriver programet även ut hur många försök det tog dig att gissa rätt tal.
+
